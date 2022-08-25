@@ -1,5 +1,5 @@
 # Reconhecimento de Padrões
-
+* Aluno: André Vitória
 * Instituição: IFES - Instituto Federal do Espírito Santo.
 * Curso: Mestrado Profissional em Computação Aplicada.
 * Linha de Pesquisa: Inteligência Artificial.
